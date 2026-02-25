@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing apps in backend coding.
 - 🌱 I’m currently learning training artificial intelligence
 - 💞️ I’m looking to collaborate on whatever coding project
-- 📫 You can reach me via email on ackiller77@gmail.com
+- 📫 You can reach me via email on achillestzeneto@gmail.com
 
 <!---
 Achilles98/Achilles98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
